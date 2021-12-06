@@ -1,0 +1,15 @@
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.exe
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.deps.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.runtimeconfig.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\bin\Debug\net6.0\ref\Primeiro.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.AssemblyReference.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfoInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfo.cs
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.CoreCompileInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache
