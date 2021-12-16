@@ -1,0 +1,15 @@
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.exe
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.deps.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.runtimeconfig.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\bin\Debug\net6.0\ref\EstruturaDoPrograma.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.AssemblyInfo.cs
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\ref\EstruturaDoPrograma.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.genruntimeconfig.cache

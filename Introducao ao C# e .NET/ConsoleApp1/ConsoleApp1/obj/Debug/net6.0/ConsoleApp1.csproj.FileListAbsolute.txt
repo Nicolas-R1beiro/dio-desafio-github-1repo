@@ -1,0 +1,15 @@
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache

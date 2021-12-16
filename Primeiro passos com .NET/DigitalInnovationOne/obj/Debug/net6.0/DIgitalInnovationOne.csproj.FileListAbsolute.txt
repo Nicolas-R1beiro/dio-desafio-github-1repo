@@ -1,0 +1,15 @@
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\bin\Debug\net6.0\DIgitalInnovationOne.exe
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\bin\Debug\net6.0\DIgitalInnovationOne.deps.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\bin\Debug\net6.0\DIgitalInnovationOne.runtimeconfig.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\bin\Debug\net6.0\DIgitalInnovationOne.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\bin\Debug\net6.0\ref\DIgitalInnovationOne.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\bin\Debug\net6.0\DIgitalInnovationOne.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\obj\Debug\net6.0\DIgitalInnovationOne.csproj.AssemblyReference.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\obj\Debug\net6.0\DIgitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\obj\Debug\net6.0\DIgitalInnovationOne.AssemblyInfoInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\obj\Debug\net6.0\DIgitalInnovationOne.AssemblyInfo.cs
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\obj\Debug\net6.0\DIgitalInnovationOne.csproj.CoreCompileInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\obj\Debug\net6.0\DIgitalInnovationOne.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\obj\Debug\net6.0\ref\DIgitalInnovationOne.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\obj\Debug\net6.0\DIgitalInnovationOne.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\DigitalInnovationOne\obj\Debug\net6.0\DIgitalInnovationOne.genruntimeconfig.cache
