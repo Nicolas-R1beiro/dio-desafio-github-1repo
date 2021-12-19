@@ -1,0 +1,15 @@
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\bin\Debug\net6.0\Classes.exe
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\bin\Debug\net6.0\Classes.deps.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\bin\Debug\net6.0\Classes.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\bin\Debug\net6.0\ref\Classes.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\bin\Debug\net6.0\Classes.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\obj\Debug\net6.0\Classes.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\obj\Debug\net6.0\ref\Classes.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\obj\Debug\net6.0\Classes.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Primeiro passos com .NET\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
