@@ -1,0 +1,15 @@
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\bin\Debug\net6.0\ref\ExemploPOO.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Programando com Orientacao a Objeto com C#\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
