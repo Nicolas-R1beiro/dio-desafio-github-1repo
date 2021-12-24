@@ -8,9 +8,14 @@ namespace ExemploPOO
         static void Main(string[] args)
         {
 
-            Calculadora cal = new Calculadora();
-            System.Console.WriteLine("Resultado da primeira soma: " +cal.Somar(10,10));
-            System.Console.WriteLine("Resultado da segunda soma: " +cal.Somar(10,10,10));
+            Corrente c = new Corrente();
+            c.Creditar(100);
+
+            c.ExibirSaldo();
+
+            // Calculadora cal = new Calculadora();
+            // System.Console.WriteLine("Resultado da primeira soma: " +cal.Somar(10,10));
+            // System.Console.WriteLine("Resultado da segunda soma: " +cal.Somar(10,10,10));
 
 //===========================================================================
             // Aluno p1 = new Aluno();
