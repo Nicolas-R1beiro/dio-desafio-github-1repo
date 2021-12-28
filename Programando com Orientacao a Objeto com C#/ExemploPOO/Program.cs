@@ -2,7 +2,7 @@
 using ExemploPOO.Helper;
 using ExemploPOO.Interfaces;
 using ExemploPOO.Models;
-
+using System.IO;
 namespace ExemploPOO
 {
     class Program
@@ -10,9 +10,27 @@ namespace ExemploPOO
         static void Main(string[] args)
         {
             var caminho = "E:\\PC\\Documentos\\Curso git\\dio\\dio-desafio-github-1repo\\TrabalhandoComArquivos";
+            var caminhoPathCombine = Path.Combine(caminho, "Pasta Teste 1");
+            var caminhoArquivo = Path.Combine(caminho, "arquivo-teste-stream.txt");
+            var caminhoArquivoTeste = Path.Combine(caminho, "arquivo-teste.txt");
+            var caminhoArquivoTesteCopia = Path.Combine(caminho, "arquivo-teste-bkp.txt");
+            var novoCaminhoArquivo = Path.Combine(caminho, "Pasta Teste 2", "arquivo-teste-stream.txt");
+            
+            var listaString = new List<string> {"linha 1", "linha 2", "linha 3"};
+            var listaStringContinuacao = new List<string> {"linha 4", "linha 5", "linha 6"};
+
             FileHelper helper = new FileHelper();
             //helper.ListarDiretorios(caminho);
-            helper.ListarArquivosDiretorios(caminho);
+            //helper.ListarArquivosDiretorios(caminho);
+            //helper.CriarDiretorio(caminhoPathCombine);
+            //helper.ApagarDiretorio(caminhoPathCombine, true);
+            //helper.CriarArquivoTexto(caminhoArquivo, "Ola! Teste de escrita de arquivo");
+            //helper.CriarArquivoTextoStream(caminhoArquivo, listaString);
+            //helper.AdicionarTextoStream(caminhoArquivo, listaStringContinuacao);
+            //helper.LerArquivoStream(caminhoArquivo);
+            //helper.MoverArquivo(caminhoArquivo,novoCaminhoArquivo);
+            //helper.CopiarArquivo(caminhoArquivoTeste, caminhoArquivoTesteCopia, false);
+            helper.DeletarArquivo(caminhoArquivoTesteCopia);
 
 //===========================================================================
             // ICalculadora calc = new Calculadora();
