@@ -1,4 +1,5 @@
 ﻿using System;
+using ExemploPOO.Helper;
 using ExemploPOO.Interfaces;
 using ExemploPOO.Models;
 
@@ -8,9 +9,16 @@ namespace ExemploPOO
     {
         static void Main(string[] args)
         {
-            ICalculadora calc = new Calculadora();
-            System.Console.WriteLine(calc.somar(10,20));
+            var caminho = "E:\\PC\\Documentos\\Curso git\\dio\\dio-desafio-github-1repo\\TrabalhandoComArquivos";
+            FileHelper helper = new FileHelper();
+            //helper.ListarDiretorios(caminho);
+            helper.ListarArquivosDiretorios(caminho);
 
+//===========================================================================
+            // ICalculadora calc = new Calculadora();
+            // System.Console.WriteLine(calc.somar(10,20));
+
+//===========================================================================
             // Computador comp = new Computador();
             // System.Console.WriteLine(comp.ToString()); 
 
