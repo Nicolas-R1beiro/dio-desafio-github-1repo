@@ -7,14 +7,18 @@ namespace ExemploConstrutores
     {
         static void Main(string [] args)
         {
-            Data data = new Data();
-            //data.SetMes(20);
+            const double pi = 3.14;
+            System.Console.WriteLine(pi);
 
-            data.Mes = 12;
-            System.Console.WriteLine(data.Mes);
+//====================================================================           
 
-            data.ApresentarMes();
+            // Data data = new Data();
+            // //data.SetMes(20);
 
+            // data.Mes = 12;
+            // System.Console.WriteLine(data.Mes);
+
+            // data.ApresentarMes();
 //====================================================================
 
             // Log log = Log.GetInstance();
