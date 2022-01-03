@@ -1,0 +1,15 @@
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.exe
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Colecoes e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
