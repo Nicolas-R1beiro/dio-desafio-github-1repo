@@ -1,0 +1,15 @@
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\App de Cadastro de Series em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
