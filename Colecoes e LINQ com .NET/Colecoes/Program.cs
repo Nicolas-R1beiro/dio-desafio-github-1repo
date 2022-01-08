@@ -7,21 +7,63 @@ namespace Colecoes
     {
         static void Main(string[] args)
         {
-            Stack<string> pilhaLivros = new Stack<string>();
+            Dictionary<string, string> estados = new Dictionary<string, string>();
+            
+            estados.Add("SP", "Sao paulo");
+            estados.Add("MG", "Minas Gerais");
+            estados.Add("BA", "Bahia");
 
-            pilhaLivros.Push(".NET");
-            pilhaLivros.Push("DDD");
-            pilhaLivros.Push("Codigo Limpo");
-
-            System.Console.WriteLine($"Livros para a leitura: {pilhaLivros.Count} ");
-
-            while(pilhaLivros.Count > 0)
+            foreach (var item in estados)
             {
-                System.Console.WriteLine($"Proximo livro para a leitura: {pilhaLivros.Peek()}");
-                System.Console.WriteLine($"{pilhaLivros.Pop()} lido com sucesso");
+                //System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
             }
 
-            System.Console.WriteLine($"Livros para a leitura: {pilhaLivros.Count} ");
+            string valorProcurado = "SC";
+
+            if(estados.TryGetValue(valorProcurado, out string estadoEncontrando))
+            {
+                System.Console.WriteLine(estadoEncontrando);
+            }
+            else
+            {
+                System.Console.WriteLine($"Chave: {valorProcurado} nao existe no dicionario");
+            }
+
+//======================================================================== 
+            // System.Console.WriteLine("Removento o valor: {0}", valorProcurado);
+
+            // estados.Remove(valorProcurado);
+            
+            // foreach (var item in estados)
+            // {
+            //     System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+            // }
+
+//======================================================================== 
+            // System.Console.WriteLine("Valor original: ");
+            // System.Console.WriteLine(estados[valorProcurado]);
+
+            // estados[valorProcurado] = "BA - teste atualizacao";
+
+            // System.Console.WriteLine("Valor atualizado: ");
+            // System.Console.WriteLine(estados[valorProcurado]);
+
+//======================================================================== 
+            // Stack<string> pilhaLivros = new Stack<string>();
+
+            // pilhaLivros.Push(".NET");
+            // pilhaLivros.Push("DDD");
+            // pilhaLivros.Push("Codigo Limpo");
+
+            // System.Console.WriteLine($"Livros para a leitura: {pilhaLivros.Count} ");
+
+            // while(pilhaLivros.Count > 0)
+            // {
+            //     System.Console.WriteLine($"Proximo livro para a leitura: {pilhaLivros.Peek()}");
+            //     System.Console.WriteLine($"{pilhaLivros.Pop()} lido com sucesso");
+            // }
+
+            // System.Console.WriteLine($"Livros para a leitura: {pilhaLivros.Count} ");
 
 //======================================================================== 
             // Queue<string> fila = new Queue<string>();
