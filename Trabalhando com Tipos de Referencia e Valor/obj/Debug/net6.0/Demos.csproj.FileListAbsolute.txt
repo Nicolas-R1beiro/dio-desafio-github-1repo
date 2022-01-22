@@ -1,0 +1,15 @@
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\bin\Debug\net6.0\Demos.exe
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\bin\Debug\net6.0\Demos.deps.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\bin\Debug\net6.0\Demos.runtimeconfig.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\bin\Debug\net6.0\Demos.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\bin\Debug\net6.0\ref\Demos.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\bin\Debug\net6.0\Demos.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\obj\Debug\net6.0\Demos.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\obj\Debug\net6.0\ref\Demos.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\obj\Debug\net6.0\Demos.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Trabalhando com Tipos de Referencia e Valor\obj\Debug\net6.0\Demos.genruntimeconfig.cache
