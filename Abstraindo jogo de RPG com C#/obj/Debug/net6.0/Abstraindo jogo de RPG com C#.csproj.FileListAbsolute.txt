@@ -1,0 +1,15 @@
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\bin\Debug\net6.0\Abstraindo jogo de RPG com C#.exe
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\bin\Debug\net6.0\Abstraindo jogo de RPG com C#.deps.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\bin\Debug\net6.0\Abstraindo jogo de RPG com C#.runtimeconfig.json
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\bin\Debug\net6.0\Abstraindo jogo de RPG com C#.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\bin\Debug\net6.0\ref\Abstraindo jogo de RPG com C#.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\bin\Debug\net6.0\Abstraindo jogo de RPG com C#.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\obj\Debug\net6.0\Abstraindo jogo de RPG com C#.csproj.AssemblyReference.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\obj\Debug\net6.0\Abstraindo jogo de RPG com C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\obj\Debug\net6.0\Abstraindo jogo de RPG com C#.AssemblyInfoInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\obj\Debug\net6.0\Abstraindo jogo de RPG com C#.AssemblyInfo.cs
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\obj\Debug\net6.0\Abstraindo jogo de RPG com C#.csproj.CoreCompileInputs.cache
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\obj\Debug\net6.0\Abstraindo jogo de RPG com C#.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\obj\Debug\net6.0\ref\Abstraindo jogo de RPG com C#.dll
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\obj\Debug\net6.0\Abstraindo jogo de RPG com C#.pdb
+E:\PC\Documentos\Curso git\dio\dio-desafio-github-1repo\Abstraindo jogo de RPG com C#\obj\Debug\net6.0\Abstraindo jogo de RPG com C#.genruntimeconfig.cache
